@@ -23,12 +23,12 @@ pH2            = np.random.uniform(3e-3,0.1)-2*pCH4
 pCO            = 1e-10
 pCO2           = (1-(pCH4+pH2+pCO))*0.95
 pN2            = (1-(pCH4+pH2+pCO))*0.05
+ntot           = (p*S*1e-4)/(g*(pCO2*M_CO2+pN2*M_N2+pCH4*M_CH4+pH2*M_H2))
 Catm           = pCO2 * ntot * 1e-6
 Hatm           = pH2  * ntot * 1e-6
 Gatm           = pCH4 * ntot * 1e-6
 N2atm          = pN2  * ntot * 1e-6
 COatm          = pCO  * ntot * 1e-6
-ntot           = (p*S*1e-4)/(g*(pCO2*M_CO2+pN2*M_N2+pCH4*M_CH4+pH2*M_H2))
 
 # Brines' freezing point
 T_freez        = 252    #Can be 203, 252, or 273

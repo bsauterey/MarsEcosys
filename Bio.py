@@ -72,21 +72,8 @@ def Run_def_FT(FT,T,Forced_rc=False,rc=1):
 
 def step_FT(vec,T,FT,NC,X0,traits,p):
 
-    #H       = max(vec[0],1e-40) * (alphaH  * p*1e-5)
-    #C       = max(vec[1],1e-40) \
-    #        * (np.exp(9345.17/T-167.8108+23.3585*np.log(T)+(0.023517-2.3656e-4*T+4.7036e-7*T**2)*35.0) * p*1e-5)
-    #N       = max(vec[2],1e-40)
-    #G       = max(vec[3],1e-40) * (alphaG  * p*1e-5)
-    #CO      = max(vec[4],1e-40) * (alphaCO * p*1e-5)
-    #CH3COOH = max(vec[5],1e-40)
-    #NO3     = max(vec[6],1e-40)
-    #NO2     = max(vec[7],1e-40)
-    #N2      = max(vec[8],1e-40) * (alphaN2  * p*1e-5)
-    #H2SO4   = max(vec[9],1e-40)
-    #H2S     = max(vec[10],1e-40)
-    #X0D     = max(vec[11],1e-40)
-
     [H,C,G,N2] = (np.array(vec)/Av*1e3)
+    alphaC     = np.exp(9345.17/T-167.8108+23.3585*np.log(T)+(0.023517-2.3656e-4*T+4.7036e-7*T**2)*35.0)
 
     if   FT == 'meth'      : import Methanogens as ft        ; dgcat = ft.DeltaGcat(T,H/alphaH,C/alphaC,G/alphaG)
     elif FT == 'NO3metht'  : import NO3Methanotrophs as ft   ; dgcat = ft.DeltaGcat(T,C/alphaC,G/alphaG,NO3,NO2)
