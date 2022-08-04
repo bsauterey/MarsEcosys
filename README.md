@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/518750122.svg)](https://zenodo.org/badge/latestdoi/518750122)
+
+
+
 ## MarsEcosys: A Global Ecosystem Model for Early Mars
 
 This repository comprises the code to run the planetary ecosystem model of Early Mars, the results output that were analysed in the Nature Astronomy paper, and the Jupyter notebook to open the corresponding files. You will find below instructions to use those. You can also contact me (boris.sauterey@biologie.ens.fr) for questions.
