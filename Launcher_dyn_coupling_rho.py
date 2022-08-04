@@ -34,7 +34,7 @@ COatm          = pCO  * ntot * 1e-6
 T_freez        = 252    #Can be 203, 252, or 273
 
 # Initial average T°, ice-free portion of the surface, and T° in that region
-T_av           = T_func(p*1e-5,pH2,pCH4)
+T_av           = T_func(p*1e-5,pH2,pCH4)  # Initerpolate function from the climate model
 rho            = float(T_to_rho252(T_av)) #Can be T_to_rho203, T_to_rho252, or T_to_rho273
 T_surf         = max(T_av,float(T_to_Tsurf252(T_av))) #Can be T_to_Tsurf203, T_to_Tsurf252, or T_to_Tsurf273
 
@@ -54,8 +54,8 @@ par            = [a_eps,a_to,r_surf]
 # Fluxes in and out of the atmosphere
 E              = 1.6e13
 Esc            = E*(pH2+pCH4/2)
-F_CH4          = float(FCH4_func(pH2,pCH4))
-F_H2           = float(FH2_func(pH2,pCH4))
+F_CH4          = float(FCH4_func(pH2,pCH4))    # Interpolated function from the photochemistry model
+F_H2           = float(FH2_func(pH2,pCH4))     # Interpolated function from the photochemistry model
 Volc           = Esc - F_H2
 
 # Vector containing the environmental variables

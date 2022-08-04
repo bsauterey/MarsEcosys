@@ -1,12 +1,3 @@
-"""
-This code is under MIT license. See the License.txt file.
-
-This file contains the subroutines related to the biological model
-
-Boris Sauterey
-boris.sauterey@ens.fr
-"""
-
 import numpy as np
 import time as libtime
 from math import *

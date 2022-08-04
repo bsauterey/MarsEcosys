@@ -1,12 +1,3 @@
-"""
-This code is under MIT license. See the License.txt file.
-
-This file contains the subroutines that are purely technical
-
-Boris Sauterey
-boris.sauterey@ens.fr
-"""
-
 import numpy as np
 import pandas as pd
 from sklearn.base import BaseEstimator, TransformerMixin

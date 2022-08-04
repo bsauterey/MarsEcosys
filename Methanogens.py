@@ -1,11 +1,3 @@
-"""
-This code is under MIT license. See the License.txt file.
-This module contains the functions useful to numerically solve the model
-
-Boris Sauterey
-boris.sauterey@ens.fr
-"""
-
 ############################################
 ###  THIS HERE DESCRIBES THE METABOLISM  ###
 ###  OF THE METHANOGENS                  ###
