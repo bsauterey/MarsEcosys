@@ -1,0 +1,29 @@
+000 (453.047.000) 2022-04-05 18:55:36 Job submitted from host: <10.18.24.243:9618?addrs=10.18.24.243-9618&alias=ecoclusts01.bioclust.biologie.ens.fr&noUDP&sock=schedd_1052_29b8>
+...
+001 (453.047.000) 2022-04-06 04:55:59 Job executing on host: <10.18.24.10:9618?addrs=10.18.24.10-9618&alias=bioclust10.bioclust.biologie.ens.fr&noUDP&sock=startd_1166_5b84>
+...
+006 (453.047.000) 2022-04-06 04:56:08 Image size of job updated: 144720
+	45  -  MemoryUsage of job (MB)
+	45360  -  ResidentSetSize of job (KB)
+...
+006 (453.047.000) 2022-04-06 05:01:09 Image size of job updated: 741876
+	317  -  MemoryUsage of job (MB)
+	324408  -  ResidentSetSize of job (KB)
+...
+005 (453.047.000) 2022-04-06 05:14:33 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:17:08, Sys 0 00:00:52  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:17:08, Sys 0 00:00:52  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            :  7500        7500     10998 
+	   Memory (MB)          :   317        1024      1024 
+
+	Job terminated of its own accord at 2022-04-06T03:14:33Z with exit-code 0.
+...

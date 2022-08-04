@@ -1,0 +1,149 @@
+000 (454.456.000) 2022-04-06 16:54:01 Job submitted from host: <10.18.24.243:9618?addrs=10.18.24.243-9618&alias=ecoclusts01.bioclust.biologie.ens.fr&noUDP&sock=schedd_1052_29b8>
+...
+001 (454.456.000) 2022-04-07 22:02:56 Job executing on host: <10.18.24.134:9618?addrs=10.18.24.134-9618&alias=dyoclust07.bioclust.biologie.ens.fr&noUDP&sock=startd_808_cc9c>
+...
+006 (454.456.000) 2022-04-07 22:03:05 Image size of job updated: 187640
+	184  -  MemoryUsage of job (MB)
+	187640  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 22:08:06 Image size of job updated: 741620
+	317  -  MemoryUsage of job (MB)
+	324096  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 22:13:06 Image size of job updated: 774388
+	317  -  MemoryUsage of job (MB)
+	324096  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 22:48:10 Image size of job updated: 774644
+	317  -  MemoryUsage of job (MB)
+	324184  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 22:53:11 Image size of job updated: 774644
+	317  -  MemoryUsage of job (MB)
+	324316  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 22:58:11 Image size of job updated: 774900
+	317  -  MemoryUsage of job (MB)
+	324448  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 23:03:12 Image size of job updated: 775156
+	317  -  MemoryUsage of job (MB)
+	324580  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 23:08:13 Image size of job updated: 775156
+	318  -  MemoryUsage of job (MB)
+	324712  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 23:13:13 Image size of job updated: 775412
+	318  -  MemoryUsage of job (MB)
+	324976  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 23:18:13 Image size of job updated: 775668
+	318  -  MemoryUsage of job (MB)
+	325108  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 23:23:14 Image size of job updated: 775668
+	318  -  MemoryUsage of job (MB)
+	325372  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 23:28:15 Image size of job updated: 775924
+	318  -  MemoryUsage of job (MB)
+	325504  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 23:33:15 Image size of job updated: 776180
+	319  -  MemoryUsage of job (MB)
+	325768  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 23:38:15 Image size of job updated: 776436
+	319  -  MemoryUsage of job (MB)
+	325900  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 23:43:16 Image size of job updated: 776692
+	319  -  MemoryUsage of job (MB)
+	326164  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 23:48:17 Image size of job updated: 776692
+	319  -  MemoryUsage of job (MB)
+	326428  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-07 23:53:17 Image size of job updated: 776948
+	319  -  MemoryUsage of job (MB)
+	326560  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 00:08:19 Image size of job updated: 777204
+	320  -  MemoryUsage of job (MB)
+	326824  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 00:13:19 Image size of job updated: 777460
+	320  -  MemoryUsage of job (MB)
+	326956  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 00:18:19 Image size of job updated: 777460
+	320  -  MemoryUsage of job (MB)
+	327088  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 00:23:20 Image size of job updated: 777716
+	320  -  MemoryUsage of job (MB)
+	327352  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 00:28:21 Image size of job updated: 777972
+	320  -  MemoryUsage of job (MB)
+	327484  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 00:33:21 Image size of job updated: 777972
+	320  -  MemoryUsage of job (MB)
+	327616  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 00:38:20 Image size of job updated: 778228
+	321  -  MemoryUsage of job (MB)
+	327880  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 00:43:21 Image size of job updated: 778484
+	321  -  MemoryUsage of job (MB)
+	328012  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 00:48:23 Image size of job updated: 778484
+	321  -  MemoryUsage of job (MB)
+	328276  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 00:53:23 Image size of job updated: 778740
+	321  -  MemoryUsage of job (MB)
+	328408  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 00:58:23 Image size of job updated: 778996
+	321  -  MemoryUsage of job (MB)
+	328540  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 01:03:24 Image size of job updated: 779252
+	321  -  MemoryUsage of job (MB)
+	328672  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 01:08:25 Image size of job updated: 779252
+	322  -  MemoryUsage of job (MB)
+	328936  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 01:13:25 Image size of job updated: 779508
+	322  -  MemoryUsage of job (MB)
+	329068  -  ResidentSetSize of job (KB)
+...
+006 (454.456.000) 2022-04-08 01:18:25 Image size of job updated: 779764
+	322  -  MemoryUsage of job (MB)
+	329200  -  ResidentSetSize of job (KB)
+...
+005 (454.456.000) 2022-04-08 01:18:42 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 03:15:11, Sys 0 00:00:24  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 03:15:11, Sys 0 00:00:24  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            :  7500        7500     10998 
+	   Memory (MB)          :   322        1024      1024 
+
+	Job terminated of its own accord at 2022-04-07T23:18:41Z with exit-code 0.
+...
