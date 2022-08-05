@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/518750122.svg)](https://zenodo.org/badge/latestdoi/518750122)
-
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/BorisSauterey.svg?style=flat-square&logo=twitter&label=Follow)](https://twitter.com/BorisSauterey)
+[![GitHub Follow](https://img.shields.io/github/followers/bsauterey.svg?style=flat-square&logo=github&label=Follow)](https://github.com/bsauterey)
 
 ## MarsEcosys: A Global Ecosystem Model for Early Mars
 
